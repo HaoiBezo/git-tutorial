@@ -1,2 +1,2 @@
 console.log('index.js');
-console.log('new version');
+console.log('new version HAT');
